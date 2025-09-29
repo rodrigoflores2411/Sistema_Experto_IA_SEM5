@@ -1,0 +1,6 @@
+propiedad(rosa, color, rojo).
+propiedad(rosa, olor, agradable).
+propiedad(rosa, espinas, si).
+propiedad(margarita, color, blanco).
+propiedad(margarita, olor, suave).
+propiedad(margarita, espinas, no).
