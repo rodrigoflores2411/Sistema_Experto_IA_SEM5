@@ -1,0 +1,3 @@
+caracteristica(color).
+caracteristica(olor).
+caracteristica(espinas).
